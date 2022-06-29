@@ -1,7 +1,11 @@
 # Demo
 
-Some description
+Some description.
 
 ## Subsription
 
-blabla
+blabla!
+
+## Local Development
+
+1. Open index.html in your browser.
